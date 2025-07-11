@@ -33,7 +33,7 @@ If you’ve never configured the AWS CLI, see:
 
 Clone this repo:
 
-```bash
+
 git clone https://github.com/YOUR_USERNAME/aws-bedrock-beginner.git
 cd aws-bedrock-beginner
 
